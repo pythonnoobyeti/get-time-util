@@ -3,7 +3,7 @@
 npm i onpoint-backend-test-filenko --save
 ```
 
-# How to include
+# How to use
 ```
 const myDateModule = require("onpoint-backend-test-filenko");
 
