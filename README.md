@@ -1,6 +1,6 @@
 # How to install
 ```
-npm i test-date-module
+npm i test-date-module --save
 ```
 
 # Options
