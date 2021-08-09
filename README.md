@@ -1,11 +1,11 @@
 # How to install
 ```
-npm i test-date-module --save
+npm i onpoint-backend-test-filenko --save
 ```
 
 # How to include
 ```
-const myDateModule = require("test-date-module");
+const myDateModule = require("onpoint-backend-test-filenko");
 
 myDateModule.main();
 ```
