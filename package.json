@@ -1,7 +1,7 @@
 {
-    "name": "homework_3",
+    "name": "test-date-module",
     "version": "1.0.0",
-    "description": "test package",
+    "description": "help you to get date",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
         "onpoint"
     ],
     "author": "jsestro",
-    "license": "ISC",
-    "homepage": "https://github.com/pythonnoobyeti/back_homework#readme",
+    "license": "MIT",
+    "homepage": "https://github.com/pythonnoobyeti/test-date-module.git",
     "dependencies": {
         "yargs": "^17.1.0"
     }
