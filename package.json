@@ -1,7 +1,7 @@
 {
     "author": "jsestro",
     "name": "onpoint-backend-test-filenko",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "help you to get date",
     "main": "index.js",
     "scripts": {
