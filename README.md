@@ -1,11 +1,11 @@
 # How to install
 ```
-npm i onpoint-backend-test-filenko --save
+npm i getTimeUtil --save
 ```
 
 # How to use
 ```
-const myDateModule = require("onpoint-backend-test-filenko");
+const myDateModule = require("getTimeUtil");
 
 myDateModule.main();
 ```
