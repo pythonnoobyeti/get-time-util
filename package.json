@@ -1,7 +1,7 @@
 {
     "author": "jsestro",
-    "name": "onpoint-backend-test-filenko",
-    "version": "1.0.1",
+    "name": "getTimeUtil ",
+    "version": "1.0.0",
     "description": "help you to get date",
     "main": "index.js",
     "scripts": {
@@ -12,7 +12,7 @@
         "onpoint"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/pythonnoobyeti/onpoint-backend-test-filenko.git",
+    "homepage": "https://github.com/pythonnoobyeti/getTimeUtil.git",
     "dependencies": {
         "yargs": "^17.1.0"
     }
