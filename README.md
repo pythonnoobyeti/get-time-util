@@ -1,11 +1,11 @@
 # How to install
 ```
-npm i getTimeUtil --save
+npm i get-time-util --save
 ```
 
 # How to use
 ```
-const myDateModule = require("getTimeUtil");
+const myDateModule = require("get-time-util");
 
 myDateModule.main();
 ```
