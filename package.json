@@ -1,6 +1,6 @@
 {
     "author": "jsestro",
-    "name": "getTimeUtil ",
+    "name": "getTimeUtil",
     "version": "1.0.0",
     "description": "help you to get date",
     "main": "index.js",
